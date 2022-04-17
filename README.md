@@ -7,7 +7,7 @@ In this deliverable, we have been given the MechaCar_mpg.csv dataset containing 
 ![](https://github.com/jaykansara2019/MechaCar_Statistical_Analysis/blob/a4f46f5f09a3c0aaf19f5f5a83d335d77e713d4c/Linear%20model%20(Deliverable%201).png)
 
 - ***Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?***
-If we set our null hypothesis as a 'factor' that has a significant impact on mpg. Based on the p-value for each factor. Vehicle length and ground clearance have no significant impact on mpg. On the other hand, the vehicle weight, spoiler angle and All Wheel Drive (AWD) have a non-random variance. All three factors have a significant impact on mpg since their p-values exceed 0.05.
+If we set our null hypothesis as a 'factor' that has a significant impact on mpg. Based on the p-value for each factor, vehicle length and ground clearance have no significant impact on mpg. On the other hand, the vehicle weight, spoiler angle and All Wheel Drive (AWD) have a non-random variance. All three factors have a significant impact on mpg since their p-values exceed 0.05.
 
 
 - ***Is the slope of the linear model considered to be zero? Why or why not?***
@@ -15,7 +15,7 @@ The slope of a linear model does consider to be near to or equal to 0 in this ca
 
 
 - ***Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?***
-Yes, the linear model does predict the mpg of MechaCar prototypes, effectively considering the p-values of each variable.
+Yes, the linear model does predict the mpg of MechaCar prototypes effectively, considering the p-values of each variable.
 
 ## ***Deliverable 2, Summary Statistics on Suspension Coils***
 
